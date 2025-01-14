@@ -1,8 +1,9 @@
-# socket programing practice
-2024.05 - 2024.06
+# socket programing practice 
 QT를 이용한 소켓프로그램 실습
 Chatserver 와 Chatclient로 다중 채팅, 랜덤 채팅, 개인 채팅 프로그램을 구현합니다.
 # 작업정보
+## 작업기간
+2024.05 - 2024.06 
 ## 작업인원
 1명
 ## 사용기술
